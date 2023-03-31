@@ -16,7 +16,7 @@ Your tests should also cover all of the following criteria:
    - A file upload
      - TextFileUploadTest()
    - A date picker
-     - ddingAProductPantsTestWithTodayDate()
+     - AddingAProductPantsTestWithTodayDate()
    - A hover-over or tooltip
      - ElectronicshoverTest()
    - Include at least one test that performs an action that opens a new tab or window, and then continues the test in that new tab or window. 
